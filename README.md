@@ -1,4 +1,4 @@
-# dice-roller
+# Dice-Roller
 
 A simple Kotlin based program which is used for rolling a virtual dice.
 
